@@ -3,5 +3,5 @@ def greet(name: str) -> str:
 
 
 if __name__ == "__main__":
-    # This runs only when you call: py src/app.py
+    print("DEBUG: app.py is running...")
     print(greet("LeBonCyl"))
